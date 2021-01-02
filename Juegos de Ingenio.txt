@@ -1,0 +1,156 @@
+﻿Juegos de Ingenio
+Desafíos para poner a prueba tu ingenio
+
+...y un día descubrí que hacer juegos de lógica e ingenio me resultaba más entretenido que resolverlos.
+
+
+Contenido
+
+
+Problemas algebraicos
+Las edades del matrimonio
+Geometría
+La vuelta al mundo en un día
+Dividir en triángulos
+Acertijos varios
+Medir en el cuadrado
+Dividir un cuadrado
+El mejor triángulo
+Numerando un cubo
+Una cuerda en la plaza
+El terreno en forma de L
+Parábola
+Cuestión de seguridad
+Amaneceres
+El mástil del monumento
+Números de habitaciones
+El Árbol Mágico
+Solución
+
+
+
+
+________________
+
+
+Problemas algebraicos
+Las edades del matrimonio
+La suma de edades de un matrimonio es 91.
+El marido tiene ahora el doble de lo que tenía su esposa cuando el tenía la misma edad que ella tiene ahora.
+Qué edad tienen[a]?
+ 
+
+
+
+
+Geometría 
+La vuelta al mundo en un día[b]
+Estamos planificando una carretera a construir sobre un paralelo situado en una latitud tal que circulando a 100 km/hora en forma constante se de la vuelta al mundo en un día exacto.
+Nos preguntamos ¿cuál es el paralelo?
+ 
+Dividir en triángulos
+Se tiene un triángulo isósceles, con lados 3, 2 y 2. El ángulo entre los dos lados iguales es aproximadamente 97 grados. Obtusángulo.
+¿Cómo se podrá cortar en una serie de pequeños triángulos que sean todos isósceles agudos (todos los ángulos menores de 90 grados)?
+Propuesto por Elliott Line en Puzzle SIG
+ 
+
+
+ 
+
+
+Acertijos varios 
+Medir en el cuadrado
+El lado del cuadrado celeste es L. ¿Cuánto miden los radios de las circunferencias roja y verde y el lado del cuadrado amarillo?.
+
+
+
+
+Dividir un cuadrado
+Partir un cuadrado mediante cortes rectos de forma tal que con los trozos resultantes se puedan componer diez cuadrados iguales.
+
+
+ 
+El mejor triángulo
+Partiendo de un trozo de papel cuadrado, plegarlo de manera tal que se obtenga el mayor triángulo equilátero posible.
+ 
+
+
+Numerando un cubo
+Queremos identificar los vértices de un cubo con enteros no negativos y diferentes entre si.
+Luego se asignará a cada arista la diferencia entre sus extremos según la numeración anterior; los números asignados a las aristas tambien deben ser diferentes entre sí.
+¿Como se deben numerar los vértices para que la suma de los números correspondientes a las aristas resulte ser la menor posible?
+  
+Una cuerda en la plaza
+En la plaza hay dos estacas perfectamente verticales, separadas 1,70 metro entre si. Una de las estacas tiene 2,00 metros de altura; la otra 1,30 metro.
+Colgamos una cuerda de 2,40 metros entre los puntos más altos de cada estaca. De la cuerda vamos a colgar una pesa y pretendemos ubicarla en el lugar más bajo posible.
+Queremos saber donde va a estar el punto buscado en relación con las estacas y a que altura va a quedar.
+ 
+ 
+El terreno en forma de L
+Tengo una parcela de tierra en forma de L. Las seis esquinas son ángulos rectos perfectos, pero las longitudes son diferentes y, en ningún caso tengo forma de medirlos.
+Todo lo que tengo son algunos palos que puedo clavar al suelo, y una cuerda común.
+Deseo determinar la posición de una nueva cerca. La cerca debe ser una sola línea recta, y debe dividir el área de mi tierra exactamente en dos.
+¿Cómo puedo lograr esto?
+ 
+ 
+Parábola
+Por la base de un cono recto circular de 80 cm de diámetro y 40 cm de altura pasa una recta 'r' a 20 cm de su centro. Por la recta 'r', a su vez, pasa un plano ubicado de forma tal que la sección plana producida en el cono resulta ser una parábola.
+Se pregunta: ¿A que altura está el vértice de la parábola?
+Observaciones: Existen dos soluciones.
+ 
+Cuestión de seguridad
+Me dedico a la seguridad y me identifican con 7 letras
+Mi 123 es la forma generica de un buen amigo
+Mi 45 es propio del desprendido
+Mi 67 es una nota musical
+Mi 3245 es nada
+Si 2345 decimos que funciona
+Como me llamo?
+ 
+Amaneceres
+¿Donde amanecerá antes el día 21 de diciembre, considerando estas dos ciudades: Rosario y Usuhaia?
+Se que Ushuaia está a 54° 48' de latitud Sur y 68° 17' Longitud Oeste mientras que Rosario esta a 60º longitud oeste y 32º latitud sur.
+ 
+El mástil del monumento
+¿Como determinar la altura que tiene el mástil del monumento a la bandera disponiendo simplemente de una cinta métrica y útiles de dibujo?
+ 
+Números de habitaciones
+Cuando Zoilo Kefalta se hizo cargo del mantenimiento del viejo hotel tuvo que reponer los números identificatorios de todas las habitaciones, numeradas desde el 1 al 999. Al ordenar los materiales advirtió que faltaban todos los números "nueve".
+¿Como les parece que razonó para deducir cuantos "nueve" debería comprar para identificar las habitaciones?
+ 
+El Árbol Mágico
+Había un árbol mágico, que durante el primer día aumentaba la mitad de su altura, el segundo día aumentaba en un tercio,el tercer día en un cuarto y así sucesivamente.
+¿Cuántos días tardó en crecer hasta aumentar cién veces su altura original?
+
+
+Un peso a la derecha
+Federico, Victoria y sus compañeros de estudio se sentaron alrededor de una gran mesa redonda. Victoria quedó a la derecha de Federico.
+Pusieron sobre la mesa las monedas de $1 que tenían y resultó ser que Federico tenía un peso más que Victoria. Victoria, a su vez, tenía $1 más que el chico a su derecha; y este $1 más que quien estaba a su derecha; y así seguían hasta completar la vuelta.
+Federico decidió pasarle un peso a Victoria, quien a su vez le pasó dos pesos a quien estaba a su derecha, que a su vez le pasó tres pesos a quien estaba a su derecha, y así siguieron con este proceso hasta que uno de los estudiantes se quedó sin monedas.  Cuando esto sucedió, Federico tenía 6 veces la cantidad de monedas que tenía Victoria.
+
+
+Las preguntas son:
+a/ ¿Cuántos estudiantes formaban el grupo? y
+b/ ¿Cuántas monedas le quedaron finalmente a Federico?
+
+
+Solución
+Llamaremos
+A = número inicial de monedas de Federico
+N = número de integrantes
+V = número de vueltas
+Haciendo una tabla hipotética con números inventados que termine en cero para el último valor se ve más fácil que:
+A+1 = N + V
+Por otro lado, por el enunciado y la tabla
+6*(A-V-1) = N.V + (A-V)
+Reordenando estas dos ecuaciones
+A-V = N - 1
+5 (A-V) = N.V + 6
+Despejando queda
+5 = V + 11/N
+La única manera de que el cociente 11/N dé un número entero es que sea
+N = 11
+Por lo tanto V = 4
+Todo lo demás sale fácilmente
+[a]Tag: algebra
+[b]geometría
